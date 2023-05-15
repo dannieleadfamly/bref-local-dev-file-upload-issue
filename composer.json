@@ -1,0 +1,12 @@
+{
+    "name": "danniebirkhansen/bref-local-dev-file-upload-issue",
+    "authors": [
+        {
+            "name": "Dannie Hansen",
+            "email": "dannie@playable.com"
+        }
+    ],
+    "require": {
+        "bref/bref": "^2.0"
+    }
+}
